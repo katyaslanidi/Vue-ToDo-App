@@ -1,3 +1,3 @@
-# Vue 3 + Vite
+# Vue-ToDo-App
 
 My first Vue pet-project
